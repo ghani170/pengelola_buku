@@ -16,12 +16,12 @@ Aplikasi **Pengelola-Buku** adalah web sederhana berbasis Laravel untuk mengelol
 
 1. **Clone repository**
    ```
-   git clone [alamat-repo-anda]
+   git clone https://github.com/ghani170/pengelola_buku
    cd perpustakaan
    ```
 
 2. **Install dependency**
-   ```
+   ```  
    composer install
    ```
 
